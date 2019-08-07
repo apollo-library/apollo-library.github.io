@@ -1,9 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: "open_sansregular", sans-serif;
-  box-sizing: border-box;
-  overflow: hidden;
+  font-family: sans-serif;
   text-decoration: none;
 }
 
@@ -20,8 +18,10 @@ a {
 
 a[href] {
 	color: #E44D95;
+	margin-top: 10px;
 }
 
 #centre {
 	text-align: center;
+	font-size: 14pt;
 }
