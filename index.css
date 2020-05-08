@@ -161,7 +161,7 @@ Main
   width: calc(2 * 100% / 3);
 }
 
-.main-img img {
+.main-img video {
   width: 100%;
 }
 
