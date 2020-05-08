@@ -87,7 +87,7 @@ Header
 
 .header-top img {
   margin: 20px;
-  max-width: 80%;
+  max-width: 50%;
 }
 
 .header-bottom {
@@ -186,7 +186,7 @@ Footer
 */
 
 footer {
-  background: #494949;
+  background: #2f2f2f;
   padding: 60px 0;
 }
 
@@ -239,7 +239,7 @@ footer .wrap-narrow {
 
 .footer-contributors-accent {
   font-weight: 700;
-  color: #e34f96;
+  color: #ff77b9;
 }
 
 
@@ -266,6 +266,10 @@ Responsive
     height: 100vh;
   }
 
+  .header-top img {
+    max-width: 70%;
+  }
+
   .header-bottom {
     height: auto;
   }
@@ -287,6 +291,10 @@ Responsive
 
   .header-bottom .wrap {
     display: block;
+  }
+
+  .header-links {
+    margin: 0;
   }
 
   .header-highlight {
