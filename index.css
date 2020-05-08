@@ -105,12 +105,13 @@ Header
 
 .header-highlight {
   padding: 20px;
+  width: calc(100% / 3);
 }
 
 
 /*
 Main
- */
+*/
 
 .main {
   background: #f9deec;
