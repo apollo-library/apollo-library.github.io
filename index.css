@@ -166,6 +166,7 @@ Main
 
 .main-img video {
   width: 100%;
+  border-radius: 3px;
 }
 
 .main-highlight-left .main-img {
